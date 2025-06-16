@@ -11,3 +11,6 @@ Tools and Libraries
 * pandas
 * matplotlib
 * seaborn
+* numpy
+* scipy (for statistical test like ANOVA)
+* folium (for map visualization)
